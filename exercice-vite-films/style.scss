@@ -1,0 +1,8 @@
+@use 'partials/cardsfilm';
+@use 'partials/variables';
+@use 'partials/top-picks';
+@use 'sass:color';
+
+body {
+    background-color: variables.$primary;
+}
